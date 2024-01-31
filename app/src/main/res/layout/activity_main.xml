@@ -21,6 +21,7 @@
             android:ems="10"
             android:fontFamily="monospace"
             android:inputType="text"
+            android:lineSpacingExtra="0sp"
             android:text="Univeridad Francisco Gavidia"
             android:textAlignment="center"
             android:textSize="20sp"
@@ -45,9 +46,9 @@
             android:ems="10"
             android:fontFamily="sans-serif-black"
             android:inputType="text"
-            android:text="Angie Arely Espinoza Campos"
-            android:textAlignment="center"
+            android:text="Angie Espinoza "
             android:textColor="#3F51B5"
+            android:layout_gravity="center"
             android:textSize="14sp" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
